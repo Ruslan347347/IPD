@@ -1,0 +1,47 @@
+D:\VisualStudioProject\WindowsApp1214125n 123q 132n523n523n5\bin\Debug\WindowsApp1214125n 123q 132n523n523n5.exe.config
+D:\VisualStudioProject\WindowsApp1214125n 123q 132n523n523n5\bin\Debug\WindowsApp1214125n 123q 132n523n523n5.exe
+D:\VisualStudioProject\WindowsApp1214125n 123q 132n523n523n5\bin\Debug\WindowsApp1214125n 123q 132n523n523n5.pdb
+D:\VisualStudioProject\WindowsApp1214125n 123q 132n523n523n5\bin\Debug\WindowsApp1214125n 123q 132n523n523n5.xml
+D:\VisualStudioProject\WindowsApp1214125n 123q 132n523n523n5\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.vbprojAssemblyReference.cache
+D:\VisualStudioProject\WindowsApp1214125n 123q 132n523n523n5\obj\Debug\WindowsApp1214125n_123q_132n523n523n5.Form1.resources
+D:\VisualStudioProject\WindowsApp1214125n 123q 132n523n523n5\obj\Debug\WindowsApp1214125n_123q_132n523n523n5.Form2.resources
+D:\VisualStudioProject\WindowsApp1214125n 123q 132n523n523n5\obj\Debug\WindowsApp1214125n_123q_132n523n523n5.Resources.resources
+D:\VisualStudioProject\WindowsApp1214125n 123q 132n523n523n5\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.vbproj.GenerateResource.cache
+D:\VisualStudioProject\WindowsApp1214125n 123q 132n523n523n5\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.vbproj.CoreCompileInputs.cache
+D:\VisualStudioProject\WindowsApp1214125n 123q 132n523n523n5\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.exe
+D:\VisualStudioProject\WindowsApp1214125n 123q 132n523n523n5\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.xml
+D:\VisualStudioProject\WindowsApp1214125n 123q 132n523n523n5\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.pdb
+D:\VisualStudioProject\WindowsApp1214125n 123q 132n523n523n5\obj\Debug\WindowsApp1214125n_123q_132n523n523n5.Form3.resources
+D:\VisualStudioProject\WindowsApp1214125n 123q 132n523n523n5\obj\Debug\WindowsApp1214125n_123q_132n523n523n5.Form4.resources
+D:\VisualStudioProject\ИПД\bin\Debug\WindowsApp1214125n 123q 132n523n523n5.exe.config
+D:\VisualStudioProject\ИПД\bin\Debug\WindowsApp1214125n 123q 132n523n523n5.exe
+D:\VisualStudioProject\ИПД\bin\Debug\WindowsApp1214125n 123q 132n523n523n5.pdb
+D:\VisualStudioProject\ИПД\bin\Debug\WindowsApp1214125n 123q 132n523n523n5.xml
+D:\VisualStudioProject\ИПД\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.vbprojAssemblyReference.cache
+D:\VisualStudioProject\ИПД\obj\Debug\WindowsApp1214125n_123q_132n523n523n5.Form1.resources
+D:\VisualStudioProject\ИПД\obj\Debug\WindowsApp1214125n_123q_132n523n523n5.Form2.resources
+D:\VisualStudioProject\ИПД\obj\Debug\WindowsApp1214125n_123q_132n523n523n5.Form3.resources
+D:\VisualStudioProject\ИПД\obj\Debug\WindowsApp1214125n_123q_132n523n523n5.Form4.resources
+D:\VisualStudioProject\ИПД\obj\Debug\WindowsApp1214125n_123q_132n523n523n5.Resources.resources
+D:\VisualStudioProject\ИПД\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.vbproj.GenerateResource.cache
+D:\VisualStudioProject\ИПД\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.vbproj.CoreCompileInputs.cache
+D:\VisualStudioProject\ИПД\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.exe
+D:\VisualStudioProject\ИПД\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.xml
+D:\VisualStudioProject\ИПД\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.pdb
+D:\Проекты Git HUb(Kraken)\IPD\IPD\ИПД\bin\Debug\WindowsApp1214125n 123q 132n523n523n5.exe.config
+D:\Проекты Git HUb(Kraken)\IPD\IPD\ИПД\bin\Debug\WindowsApp1214125n 123q 132n523n523n5.exe
+D:\Проекты Git HUb(Kraken)\IPD\IPD\ИПД\bin\Debug\WindowsApp1214125n 123q 132n523n523n5.pdb
+D:\Проекты Git HUb(Kraken)\IPD\IPD\ИПД\bin\Debug\WindowsApp1214125n 123q 132n523n523n5.xml
+D:\Проекты Git HUb(Kraken)\IPD\IPD\ИПД\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.vbprojAssemblyReference.cache
+D:\Проекты Git HUb(Kraken)\IPD\IPD\ИПД\obj\Debug\WindowsApp1214125n_123q_132n523n523n5.Form2.resources
+D:\Проекты Git HUb(Kraken)\IPD\IPD\ИПД\obj\Debug\WindowsApp1214125n_123q_132n523n523n5.Form3.resources
+D:\Проекты Git HUb(Kraken)\IPD\IPD\ИПД\obj\Debug\WindowsApp1214125n_123q_132n523n523n5.Form4.resources
+D:\Проекты Git HUb(Kraken)\IPD\IPD\ИПД\obj\Debug\WindowsApp1214125n_123q_132n523n523n5.Resources.resources
+D:\Проекты Git HUb(Kraken)\IPD\IPD\ИПД\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.vbproj.GenerateResource.cache
+D:\Проекты Git HUb(Kraken)\IPD\IPD\ИПД\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.vbproj.CoreCompileInputs.cache
+D:\Проекты Git HUb(Kraken)\IPD\IPD\ИПД\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.exe
+D:\Проекты Git HUb(Kraken)\IPD\IPD\ИПД\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.xml
+D:\Проекты Git HUb(Kraken)\IPD\IPD\ИПД\obj\Debug\WindowsApp1214125n 123q 132n523n523n5.pdb
+D:\Проекты Git HUb(Kraken)\IPD\IPD\ИПД\obj\Debug\WindowsApp1214125n_123q_132n523n523n5.Form1.resources
+D:\Проекты Git HUb(Kraken)\IPD\IPD\ИПД\obj\Debug\WindowsApp1214125n_123q_132n523n523n5.Form5.resources
+D:\Проекты Git HUb(Kraken)\IPD\IPD\ИПД\obj\Debug\WindowsApp1214125n_123q_132n523n523n5.Form6.resources
